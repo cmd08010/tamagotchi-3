@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import qs from 'qs';
@@ -166,9 +165,3 @@ const App = () => {
 };
 
 export default App;
-=======
-import React, { useState, useEffect } from "react"
-import axios from "axios"
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom"
-import "./App.css"
->>>>>>> 5da7fa05f6ee8cf5a7087c21a7cf45b95b602000
